@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "block-rotator",
+  "version": "1.0.0",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["io.github.jojonoskill.blockRotator.client.BlockRotatorClient"]
+  },
+  "mixins": [
+    { "config": "block-rotator.client.mixins.json", "environment": "client" }
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "1.21",
+    "fabric": "*"
+  }
+}
