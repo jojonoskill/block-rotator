@@ -1,0 +1,6 @@
+{
+  "key.categories.blockrotator": "Block Rotator",
+  "key.blockrotator.toggleTopHalf": "Toggle Top-half (slabs/stairs)",
+  "key.blockrotator.toggleSmartRotate": "Smart Rotate (stairs=yaw, axis=logs)",
+  "key.blockrotator.cycleOrientation": "Cycle Orientation"
+}
